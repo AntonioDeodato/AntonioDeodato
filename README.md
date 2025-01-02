@@ -1,6 +1,6 @@
-<img src = "banner.gif" width = "325px" align = "right">
+<img src = "icon.png" width = "325px" align = "right">
 
-## Welcome
+### Welcome
 Me chamo Antônio Deodato, tenho 19 anos e sou natural do Ceará. Sou técnico em Informática, formado pela Escola Profissionalizante Professor Walquer Cavalcante Maia, com conhecimento em redes de computadores, desenvolvedor full stack, e atualmente estou cursando Ciência da Computação na Universidade Federal do Ceará (UFC).
 
 
