@@ -1,7 +1,7 @@
 <img src = "code GIF.gif" width = "300px" align = "right">
 
-### Welcome
-Me chamo Antônio Deodato, tenho 19 anos e sou natural do Ceará. Sou técnico em Informática, formado pela Escola Profissionalizante Professor Walquer Cavalcante Maia, com conhecimento em redes de computadores, desenvolvedor full stack, e atualmente estou cursando Ciência da Computação na Universidade Federal do Ceará (UFC).
+### Bem-vindo, me chamo Antonio e sou um desenvolvedor full stack em desenvolvimento
+Tenho 19 anos e sou natural do Ceará. Sou técnico em Informática, formado pela Escola Profissionalizante Professor Walquer Cavalcante Maia, com conhecimento em redes de computadores, desenvolvedor full stack, e atualmente estou cursando Ciência da Computação na Universidade Federal do Ceará (UFC).
 
 
 ### 📊 Estatísticas
