@@ -7,10 +7,12 @@ Tenho 19 anos e sou natural do Ceará. Técnico em Informática, formado pela Es
 ### 📊 Estatísticas
 
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AntonioDeodato&show_icons=true&&theme=nord">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AntonioDeodato&layout=compact&theme=nord">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AntonioDeodato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioDeodato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
+
 ### 🧰Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="Python"
