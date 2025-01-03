@@ -76,6 +76,14 @@ Tenho 19 anos e sou natural do Ceará. Técnico em Informática, formado pela Es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+<img 
+    align="left" 
+    alt="WP"
+    title="WP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
+/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioDeodato/AntonioDeodato/output/github-contribution-grid-snake-dark.svg">
